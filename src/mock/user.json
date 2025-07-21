@@ -1,0 +1,7 @@
+{ "id": 1,
+"email":"testUser@test.com",
+"nickName":"bookLover",
+"profileImgUrl":"https://i.pinimg.com/1200x/d3/c2/b4/d3c2b4aadc8c9925de87e449cba4deea.jpg",
+"joinDate": "2023-01-15T10:00:00Z",
+"totalBooksRead": 125,
+ }
